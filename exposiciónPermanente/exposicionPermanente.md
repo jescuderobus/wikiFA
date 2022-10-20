@@ -1,5 +1,9 @@
-# EL LIBRO MEDIEVAL Y MODERNO: UNA HISTORIA DEL LIBRO A TRAVÉS DE LOS FACSÍMILES DE LA BIBLIOTECA DE LA UNIVERSIDAD DE SEVILLA
+# EL LIBRO MEDIEVAL Y MODERNO 
+_UNA HISTORIA DEL LIBRO A TRAVÉS DE LOS FACSÍMILES DE LA BIBLIOTECA DE LA UNIVERSIDAD DE SEVILLA_
+
 Textos de **_Eduardo Peñalver_** 
+
+![exposicion permanente](_files/expoPermanenteSketch_num.png)
 
 ## VITRINA 0 
 - [Historia del Libro](vitrina0/historiaDelLibro.md)
