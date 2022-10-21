@@ -14,21 +14,21 @@ Textos de **_Eduardo Peñalver_**
 - [Biblia de Gutenberg](vitrina7/bibliaDeGutemberg.md)
 
 ## VITRINA I (Pequeña)
-```txt
+<!-- ```txt
 APOCALIPSIS DE LOS DUQUES DE SABOYA
 Apocalipsis figurado de los duques de Saboya.
 Reprod. facs. del Códice Vit.I de la Biblioteca de San Lorenzo de El Escorial.
 Madrid, Edilan, 1980.
 BUS A Arm. 12/011
-```
+``` -->
 
-```txt
+<!-- ```txt
 BEATO DE OSMA
 Beato de Osma.
 Reprod. facs.
 Valencia, Vicent García, 1992.
 BUS A Arm. 13/1/18-19
-```
+``` -->
 
 
 ## VITRINA II (Lado izquierdo).
@@ -41,23 +41,23 @@ En la Alta Edad Media alcanzaron gran difusión los Comentarios al libro del Apo
 
 Además del interés histórico de los textos, los Beatos constituyen una temprana manifestación del arte de la iluminación de libros, que alcanzaría cotas de perfección y belleza insuperables en los siglos siguientes, así como un magnífico testimonio de la escritura empleada en aquellos siglos altomedievales.
 
-```txt
+<!-- ```txt
 CODEX GERUNDENSIS
 Comentario al Apocalipsis del Beato de Liébana.
 Reprod. facs. del Códice de Gerona "Beati in Apocalipsin Libri Duodecim", Codex Gerundensis A.D. 975.
 Madrid, Edilan, 1975.
 Biblioteca de la Universidad de Sevilla, A Arm. 12/015.
-```
+``` -->
 
 
-```txt
+<!-- ```txt
 BEATO DE LA ABADIA DE SAINT-BEVER
 Comentarios al Apocalipsis y a Libro de Daniel.
 Códice de la abadía de Saint-Sever.
 Reprod. facs. del códice de la Biblioteca Nacional de París (Ms. lat. 8878).
 Madrid, Edilan, 1984.
 BUS A Arm. 14/2/28
-```
+``` -->
 
 
 ## VITRINA II (Lado derecho)
@@ -70,29 +70,29 @@ El siglo XIII es, para la Península Ibérica, especialmente importante para la 
 
 Bajo su patrocinio, a veces con su participación directa, se produjeron una serie de obras de carácter literario, científico, histórico, jurídico y lúdico, redactadas todas en lenguas romances, de las que aquí presentamos un breve exponente.
 
-```txt
+<!-- ```txt
 LAS CANTIGAS
 Cantigas de Santa María.
 Reprod. facs. del Códice T.I.1 de la Biblioteca de San Lorenzo de El Escorial.
 Madrid, Edilan, 1979.
 Biblioteca de la Universidad de Sevilla, A Arm. 12/005.
-```
+``` -->
 
-```txt
+<!-- ```txt
 LIBROS DEL AJEDREZ
 Libros del ajedrez, dados y tablas.
 Reprod. facs. del manuscrito de El Escorial.
 Valencia, Vicent García, 1987.
 Biblioteca de la Universidad de Sevilla, A Arm. 12/020.
-```
+``` -->
 
-```txt
+<!-- ```txt
 LIBROS DEL SABER DE ASTRONOMIA
 Libros del saber de Astronomia del rey Alfonso X.
 Reprod. facs. del Ms. sign. 156 de la Biblioteca de la Universidad Complutense de Madrid.
 Barcelona, Ebrisa, 1999.
 Biblioteca de la Universidad de Sevilla, A Arm. 14/1/13.
-```
+``` -->
 
 
 ### VITRINA III (Izquierda)
@@ -105,21 +105,21 @@ En el libro medieval la ilustración cubre los dos objetivos, pero es particular
 
 También responde a ese patrón didáctico la ilustración de obras pertenecientes al ámbito científico –lo que entonces se llamaba filosofía natural— y a la medicina.
 
-```txt
+<!-- ```txt
 BIBLIA PAUPERUM (LA BIBLIA DE LOS POBRES)
 Codex Palatinus Latinus 871.
 Reprod. facs. del Codex Palatinus Latinus 871 de la Biblioteca Apostólica Vaticana.
 Madrid, Ediciones Encuentro, 1983.
 BUS A Arm. 12/032.
-```
+``` -->
 
-```txt
+<!-- ```txt
 CODEX GRANATENSIS
 De natura rerum, por Tomás de Cantimpré, y Tacuinum sanitatis, por Ibn Butlan.
 Reprod. facs. del Códice C-67 (fols.2-116) de la iblioteca Universitaria de Granada.
 Granada, Universidad, 1974.
 BUS A Arm. 12/009
-```
+``` -->
 
 ```txt
 TACUINUM SANITATIS
@@ -129,12 +129,12 @@ Madrid, Arte y Bibliofilia, 1984.
 BUS A Arm. 13/3/13-14
 ```
 
-```txt
+<!-- ```txt
 LIBRO DEL CABALLERO ZIFAR
 Reprod. facs. del Libro del caballero Zifar cuyo original se conserva en la Bibliothèque Nationale de France.
 Barcelona, M. Moleiro, 1996.
 BUS A Arm. 14/1/06-07.
-```
+``` -->
 
 
 
@@ -144,44 +144,44 @@ LOS LIBROS DE DEVOCIÓN
 
 La edad de oro de la iluminación del libro se alcanza en los siglos XIV y XV, especialmente en los Países Bajos. En aquellos siglos, personajes de la nobleza y la realeza encargaban libros de devoción y oración para uso particular. Son los llamados Libros de Horas, a menudo obras primorosas, en las que participaron los mejores artistas de la época, y en las que la técnica y el arte de la iluminación alcanzó una altura extraordinaria.
 
-```txt
+<!-- ```txt
 OFICIO DE LA VIRGEN
 Reprod. facs. del Códice Vaticano Latino 3781.
 Madrid, Encuentro, 1985.
 BUS A Arm. 13/3/15-16.
-```
+``` -->
 
-```txt
+<!-- ```txt
 LIBRO DE HORAS DE ALEJANDRO FARNESIO
 Libro de Horas de Alejandro Farnesio con 64 páginas facsímiles totalmente miniadas a todo color más oro por Giulio Clovio.
 Madrid, Casariego, 1987.
 BUS A Arm. 13/4/06
-```
+``` -->
 
-```txt
+<!-- ```txt
 LIBRO DE HORAS DE LA BIBLIOTECA VATICANA
 El Libro de Horas Vat. Ross. 94 de la Biblioteca Apostólica Vaticana, por Luigi Michelini Tocci.
 Reprod. facs.
 Madrid Encuentro, 1983.
 BUS A Arm. 13/4/08-09.
-```
+``` -->
 
-```txt
+<!-- ```txt
 LIBRO DE HORAS DEL MARQUÉS DE DOS AGUAS
 Libro de horas del Marqués de Dos Aguas.
 Valencia, Grupo de Arte y Bibliofilia, 1993.
 Reprod. facs. del Ms. 103-V1-3 de la Biblioteca Bartolomé March de Mallorca.
 BUS A Arm. 14/4/09-10.
-```
+``` -->
 
 ## VITRINA IV (2ª pequeña)
-```txt
+<!-- ```txt
 LA BIBLIA DE GUTENBERG
 Biblia de las Cuarenta y dos líneas.
 Reprod. facs. de la ed. de Maguncia, Johannes Guttenberg, 1454, del ejemplar de la Biblioteca Pública de Burgos.
 Valencia, Vicent García, 1995.
 BUS A Arm. 14/1/01-01.
-```
+``` -->
 
 ## VITRINA V (Lado izquierdo)
 
@@ -195,13 +195,13 @@ Los primeros años la imprenta empleó la escritura gótica textual, pero no tar
 
 Aquellos primeros libros impresos carecían de portada, siendo preciso casi siempre recurrir a los colofones para conocer el nombre de los impresores, y de las ciudades y fechas en la que fueron impresos.
 
-```txt
+<!-- ```txt
 LOS TRABAJOS DE HÉRCULES
 Los doze trabajos de Hércules, por Enrique de Aragón, Marqués de Villena.
 Reprod. facs. de la ed. de Zamora, Antón de Centenera, 1483.
 Valencia, Vicent García, 1995.
 BUS A Arm. 13/3/19.
-```
+``` -->
 
 ```txt
 EL LIBRO DE LAS MARAVILLAS
@@ -211,21 +211,21 @@ Madrid, Testimonio, 1986.
 BUS A Arm. 12/030.
 ```
 
-```txt
+<!-- ```txt
 LA NAVE DE LOS LOCOS
 Stultiferae naves / [Jodocus Badius Ascensius].
 Reprod. facs. de la ed. impresa en Burgos, por Fadrique Biel de Basilea, no antes del 18 de Febrero de 1500.
 Valencia, Vicent García y Biblioteca Nacional, 1998.
 BUS A Arm. 14/3/04.
-```
+``` -->
 
-```txt
+<!-- ```txt
 EL APOCALIPSIS DE DURERO
 Apocalipsis cum figuris de Alberto Durero.
 Reprod. facs. del ejemplar de la Biblioteca Nacional de España de la ed. de Nuremberg, 1498.
 Salamanca, CM Editores, [2009-2011].
 BUS A Arm. 15/1/13(1).
-```
+``` -->
 
 ## VITRINA V (Lado derecho)
 
@@ -237,18 +237,18 @@ También sirvió la imprenta para la transmisión de los avances en disciplinas 
 
 Pero también, por supuesto, jugaría un papel primordial en el Siglo de las Luces como cauce para la divulgación del conocimiento científico y de las nuevas ideas políticas y sociales alumbradas por la Ilustración, a través de obras como la Enciclopedia de Diderot y D’alembert, uno de los libros, sin duda, más importantes de la historia.
 
-```txt
+<!-- ```txt
 EL TEATRO DE LA TIERRA UNIVERSAL
 Theatrum orbis terrarum. Abraham Ortelius.
 Reprod. facs. de la ed. de Amberes, Plantino, 1595.
 BUS A Arm. 15/1/10.
-```
+``` -->
 
-```txt
+<!-- ```txt
 LA COMPOSICIÓN DEL CUERPO HUMANO
 Historia de la composición del cuerpo humano, por Juan Valverde de Hamusco. Madrid, Turner, 1985.
 BUS A Arm. 13/3/10.
-```
+``` -->
 
 ```txt
 LA BIBLIA DEL OSO
@@ -258,13 +258,13 @@ Madrid Sociedad Bíblica, 1990.
 BUS A Arm. 12/048
 ```
 
-```txt
+<!-- ```txt
 LA ENCICLOPEDIA DE DIDEROT Y D’ALEMBERT
 Encyclopédie de Diderot et d'Alembert.
 Reprod. facs. de la ed. de: Paris : Chez Briasson, David, Le Breton, Durand, 1751-1777.
 Parma, mIlán y París,Franco Maria Ricci, 1970.
 BUS A Arm. 15/2/01-15.
-```
+``` -->
 
 ## VITRINA VI
 ```txt
@@ -281,10 +281,10 @@ Reprod. facs. del Libro del caballero Zifar cuyo original se conserva en la Bibl
 Barcelona, M. Moleiro, 1996.
 ```
 
-```txt
+<!-- ```txt
 BUS A Arm. 14/1/06-07.
 ROMAN DE LA QUÊTE DU GRAAL = LA BÚSQUEDA DEL SANTO GRIAL
 Reprod. facs. del ms. conservado en la Biblioteca Municipal de Dijon.
 Valencia, Grial, 1997.
 BUS A Arm. 14/1/10-11
-```
+``` -->
