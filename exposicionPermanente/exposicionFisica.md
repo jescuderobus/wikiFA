@@ -1,3 +1,5 @@
+# Exposición Física
+
 ## Vitrina 1
 - El teatro de la Tierra Universal
 - La Enciclopedia de Diderot y D'Alambert
@@ -26,10 +28,9 @@
 - <b>Texto</b> La Imagen en el Texto
 - <b>Foto</b> Codex Granatensis
 
-
 ## Vitrina 5
 - Libros del Ajedrez
-- Libros del saber de Astrnomia
+- Libros del Saber de Astrnomia
 - <b>Texto</b> Alfonso X
 - <b>Foto</b> Cantigas de Alfonso X El Sabio
 
