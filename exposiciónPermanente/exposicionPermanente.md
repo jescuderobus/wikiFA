@@ -5,9 +5,13 @@ Textos de **_Eduardo Peñalver_**
 
 ![exposicion permanente](_files/expoPermanenteSketch_num.png)
 
-## VITRINA 0 
+## VITRINA 0. 
+(No existe físicamente, enmarca la exposición) 
+- Cronología de los libros
 - [Historia del Libro](vitrina0/historiaDelLibro.md)
-- [Biblia de Gutemberg](vitrina0/bibliaGutemberg.md)
+
+## VITRINA 7 
+- [Biblia de Gutenberg](vitrina7/bibliaDeGutemberg.md)
 
 ## VITRINA I (Pequeña)
 ```txt
