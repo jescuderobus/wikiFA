@@ -1,7 +1,7 @@
 
 # Biblia de Gutenberg (1456) 
 
-![Biblia de Gutenberg](../_files/bibliaGutenberg.png)
+![Biblia de Gutenberg](../_files/vitrina7/bibliaGutenberg.png)
 
 ```txt
 LA BIBLIA DE GUTENBERG

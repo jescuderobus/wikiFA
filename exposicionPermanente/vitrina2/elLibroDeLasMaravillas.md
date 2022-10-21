@@ -1,6 +1,6 @@
 # El libro de las maravillas
 
-![El libro de las maravillas](../_files/apocalipsisDeLosDuquesDeSaboya.png)
+![El libro de las maravillas](../_files/vitrina2/elLibroDeLasMaravillas.jpg)
 
 ```txt
 EL LIBRO DE LAS MARAVILLAS
@@ -11,23 +11,17 @@ BUS A Arm. 12/030.
 ```
 ___
 ## Wikipedia
-- es (no)
-- en (no) Apocalypse of the Dukes of Savoy
+- https://es.wikipedia.org/wiki/Los_viajes_de_Marco_Polo
+- https://en.wikipedia.org/wiki/The_Travels_of_Marco_Polo
 
+___
 ### Wikimedia
-- https://commons.wikimedia.org/wiki/File:Apocalypse_figur%C3%A9e_des_ducs_de_Savoie_-_Escorial_E_Vit.5_-_Folio_49v._La_Jerusal%C3%A9n_Celestial_(Jean_Colombe)_crop.jpg
-- 
+- https://upload.wikimedia.org/wikipedia/commons/0/02/Libro_de_las_Maravillas_Livre_des_merveilles_Book_of_the_marvels_of_the_world_Fol_29v_Mythical_creatures.png
 
-## Wikipedia Otros
-- https://en.wikipedia.org/wiki/Duchy_of_Savoy
-- 
 ___
 ## Archive 
+- https://archive.org/details/ellibrodelasmaravillasmarcopolo_202003
 
 ___
 ## YouTube
-
-- https://mobile.twitter.com/patrimnacional/status/1385504261652484097
-- https://www.youtube.com/watch?v=v1oeW2oGg0Q
-- https://www.youtube.com/watch?v=6dSm_tUwdV4&ab_channel=PatrimonioNacional
-- 
+- https://youtu.be/f0Nyn6vgsuo

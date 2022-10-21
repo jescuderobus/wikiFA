@@ -1,6 +1,6 @@
 # Apocalipsis de los Duques de Saboya
 
-![Apocalipsis de los Duques de Saboya](../_files/apocalipsisDeLosDuquesDeSaboya.png)
+![Apocalipsis de los Duques de Saboya](../_files/vitrina9/apocalipsisDeLosDuquesDeSaboya.png)
 
 ```txt
 APOCALIPSIS DE LOS DUQUES DE SABOYA (1428-1490)
