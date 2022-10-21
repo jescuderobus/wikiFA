@@ -33,13 +33,13 @@ BUS A Arm. 13/1/18-19
 
 ## VITRINA II (Lado izquierdo).
 
-TEXTO: LOS BEATOS
+<!-- TEXTO: LOS BEATOS
 
 Las civilizaciones han utilizado la escritura con diversos objetivos, entre los que se cuenta la transmisión de relatos relacionados con la religión. No en balde las tres grandes religiones monoteístas se conocen como las religiones del Libro.
 
 En la Alta Edad Media alcanzaron gran difusión los Comentarios al libro del Apocalipsis de un monje mozárabe conocido universalmente como Beato de Liébana. Los Beatos, como son conocidos, fueron objetos de numerosísimas copias manuscritas, principalmente en los siglos X y XI, muchas de ellas primorosamente iluminadas.
 
-Además del interés histórico de los textos, los Beatos constituyen una temprana manifestación del arte de la iluminación de libros, que alcanzaría cotas de perfección y belleza insuperables en los siglos siguientes, así como un magnífico testimonio de la escritura empleada en aquellos siglos altomedievales.
+Además del interés histórico de los textos, los Beatos constituyen una temprana manifestación del arte de la iluminación de libros, que alcanzaría cotas de perfección y belleza insuperables en los siglos siguientes, así como un magnífico testimonio de la escritura empleada en aquellos siglos altomedievales. -->
 
 <!-- ```txt
 CODEX GERUNDENSIS
@@ -62,13 +62,13 @@ BUS A Arm. 14/2/28
 
 ## VITRINA II (Lado derecho)
 
-TEXTO: ALFONSO X
+<!-- TEXTO: ALFONSO X
 
 La copia manuscrita, realizada por amanuenses más o menos profesionales, en scriptoria, conventuales o laicos, será el medio de transmisión del conocimiento durante toda la Edad Media.
 
 El siglo XIII es, para la Península Ibérica, especialmente importante para la historia del libro, pues en él verá la luz el fruto de la impresionante labor cultural de Alfonso X El Sabio, que, recogiendo la tradición de la Escuela de Traductores de Toledo, supuso una innovación en el arte de la elaboración de los libros manuscritos y una renovación en sus contenidos.
 
-Bajo su patrocinio, a veces con su participación directa, se produjeron una serie de obras de carácter literario, científico, histórico, jurídico y lúdico, redactadas todas en lenguas romances, de las que aquí presentamos un breve exponente.
+Bajo su patrocinio, a veces con su participación directa, se produjeron una serie de obras de carácter literario, científico, histórico, jurídico y lúdico, redactadas todas en lenguas romances, de las que aquí presentamos un breve exponente. -->
 
 <!-- ```txt
 LAS CANTIGAS
@@ -97,13 +97,13 @@ Biblioteca de la Universidad de Sevilla, A Arm. 14/1/13.
 
 ### VITRINA III (Izquierda)
 
-TEXTO: LA IMAGEN EN EL TEXTO
+<!-- TEXTO: LA IMAGEN EN EL TEXTO
 
 La imagen ha sido siempre compañera inseparable de la palabra escrita, unas veces cumpliendo una función meramente ornamental, pero otras, las más, cumpliendo una función didáctica.
 
 En el libro medieval la ilustración cubre los dos objetivos, pero es particularmente relevante esa función didáctica, destinada a permitir la comprensión del mensaje evangélico por parte de una población en su inmensa mayoría analfabeta.
 
-También responde a ese patrón didáctico la ilustración de obras pertenecientes al ámbito científico –lo que entonces se llamaba filosofía natural— y a la medicina.
+También responde a ese patrón didáctico la ilustración de obras pertenecientes al ámbito científico –lo que entonces se llamaba filosofía natural— y a la medicina. -->
 
 <!-- ```txt
 BIBLIA PAUPERUM (LA BIBLIA DE LOS POBRES)
@@ -121,13 +121,13 @@ Granada, Universidad, 1974.
 BUS A Arm. 12/009
 ``` -->
 
-```txt
+<!-- ```txt
 TACUINUM SANITATIS
 Enchiridion virtutum vegetabilium, animalium, mineralium rerumque omnium, explicans naturam, iuvamentum, nocumentum remotionemque nocumentorum eorum. Authore anonymo.
 Reprod. facs. del Condex Vindobonensis (Biblioteca Nacional de Viena, 2396).
 Madrid, Arte y Bibliofilia, 1984.
 BUS A Arm. 13/3/13-14
-```
+``` -->
 
 <!-- ```txt
 LIBRO DEL CABALLERO ZIFAR
@@ -140,9 +140,9 @@ BUS A Arm. 14/1/06-07.
 
 ## VITRINA III (Derecha)
 
-LOS LIBROS DE DEVOCIÓN
+<!-- LOS LIBROS DE DEVOCIÓN
 
-La edad de oro de la iluminación del libro se alcanza en los siglos XIV y XV, especialmente en los Países Bajos. En aquellos siglos, personajes de la nobleza y la realeza encargaban libros de devoción y oración para uso particular. Son los llamados Libros de Horas, a menudo obras primorosas, en las que participaron los mejores artistas de la época, y en las que la técnica y el arte de la iluminación alcanzó una altura extraordinaria.
+La edad de oro de la iluminación del libro se alcanza en los siglos XIV y XV, especialmente en los Países Bajos. En aquellos siglos, personajes de la nobleza y la realeza encargaban libros de devoción y oración para uso particular. Son los llamados Libros de Horas, a menudo obras primorosas, en las que participaron los mejores artistas de la época, y en las que la técnica y el arte de la iluminación alcanzó una altura extraordinaria. -->
 
 <!-- ```txt
 OFICIO DE LA VIRGEN
@@ -185,7 +185,7 @@ BUS A Arm. 14/1/01-01.
 
 ## VITRINA V (Lado izquierdo)
 
-EL NACIMIENTO DE LA IMPRENTA
+<!-- EL NACIMIENTO DE LA IMPRENTA
 
 En 1454 Johannes Gutenberg imprimía en la ciudad alemana de Maguncia la hoy conocida como Biblia de Gutenberg, o Biblia de las cuarenta y dos líneas, con la que se inauguraba la historia de la imprenta.
 
@@ -193,7 +193,7 @@ Aquel genial invento, que iba a tener consecuencias incalculables para la difusi
 
 Los primeros años la imprenta empleó la escritura gótica textual, pero no tardaría en emplearse la nueva escritura surgida en Italia, la humanística, primero la redonda y poco tiempo después la cursiva. letra romana, humanística o redonda.
 
-Aquellos primeros libros impresos carecían de portada, siendo preciso casi siempre recurrir a los colofones para conocer el nombre de los impresores, y de las ciudades y fechas en la que fueron impresos.
+Aquellos primeros libros impresos carecían de portada, siendo preciso casi siempre recurrir a los colofones para conocer el nombre de los impresores, y de las ciudades y fechas en la que fueron impresos. -->
 
 <!-- ```txt
 LOS TRABAJOS DE HÉRCULES
@@ -203,13 +203,13 @@ Valencia, Vicent García, 1995.
 BUS A Arm. 13/3/19.
 ``` -->
 
-```txt
+<!-- ```txt
 EL LIBRO DE LAS MARAVILLAS
 El Libro de Marco Polo.
 Reprod. facs. de la ed. de Amberes, 1485, del ejemplar anotado por Cristóbal Colón y que se conserva en la Biblioteca Capitular y Colombina de Sevilla.
 Madrid, Testimonio, 1986.
 BUS A Arm. 12/030.
-```
+``` -->
 
 <!-- ```txt
 LA NAVE DE LOS LOCOS
@@ -229,13 +229,13 @@ BUS A Arm. 15/1/13(1).
 
 ## VITRINA V (Lado derecho)
 
-EL LIBRO EN LOS SIGLOS XVI A XVIII
+<!-- EL LIBRO EN LOS SIGLOS XVI A XVIII
 
 Prácticamente todas las áreas del conocimiento humano se vieron beneficiadas por la irrupción del libro impreso. Es el caso de la cartografía, por ejemplo, que vio el nacimiento de los primeros atlas, de los que traemos aquí el famoso ejemplo del Teatro de la Tierra Universal.
 
 También sirvió la imprenta para la transmisión de los avances en disciplinas como la medicina, la filosofía natural y las matemáticas y fue, por otra parte, el vehículo principal de que se valieron las nuevas corrientes en el ámbito de las creencias religiosas, a partir sobre todo de la Reforma Protestante.
 
-Pero también, por supuesto, jugaría un papel primordial en el Siglo de las Luces como cauce para la divulgación del conocimiento científico y de las nuevas ideas políticas y sociales alumbradas por la Ilustración, a través de obras como la Enciclopedia de Diderot y D’alembert, uno de los libros, sin duda, más importantes de la historia.
+Pero también, por supuesto, jugaría un papel primordial en el Siglo de las Luces como cauce para la divulgación del conocimiento científico y de las nuevas ideas políticas y sociales alumbradas por la Ilustración, a través de obras como la Enciclopedia de Diderot y D’alembert, uno de los libros, sin duda, más importantes de la historia. -->
 
 <!-- ```txt
 EL TEATRO DE LA TIERRA UNIVERSAL
@@ -250,13 +250,13 @@ Historia de la composición del cuerpo humano, por Juan Valverde de Hamusco. Mad
 BUS A Arm. 13/3/10.
 ``` -->
 
-```txt
+<!-- ```txt
 LA BIBLIA DEL OSO
 Sagrada Biblia. Traducción de Casiodoro Reina,1602.
 Reprod. facs. de la ed. de: Amsterdam : en casa de Lorenço Iacobi, 1602.
 Madrid Sociedad Bíblica, 1990.
 BUS A Arm. 12/048
-```
+``` -->
 
 <!-- ```txt
 LA ENCICLOPEDIA DE DIDEROT Y D’ALEMBERT
@@ -267,7 +267,7 @@ BUS A Arm. 15/2/01-15.
 ``` -->
 
 ## VITRINA VI
-```txt
+<!-- ```txt
 LAS CANTIGAS
 Cantigas de Santa María.
 Reprod. facs. del Códice T.I.1 de la Biblioteca de San Lorenzo de El Escorial.
@@ -279,7 +279,7 @@ Biblioteca de la Universidad de Sevilla, A Arm. 12/005.
 LIBRO DEL CABALLERO ZIFAR
 Reprod. facs. del Libro del caballero Zifar cuyo original se conserva en la Bibliothèque Nationale de France.
 Barcelona, M. Moleiro, 1996.
-```
+``` -->
 
 <!-- ```txt
 BUS A Arm. 14/1/06-07.

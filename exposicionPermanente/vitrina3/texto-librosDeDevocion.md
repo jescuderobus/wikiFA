@@ -1,0 +1,3 @@
+TEXTO: LOS LIBROS DE DEVOCIÓN
+
+La edad de oro de la iluminación del libro se alcanza en los siglos XIV y XV, especialmente en los Países Bajos. En aquellos siglos, personajes de la nobleza y la realeza encargaban libros de devoción y oración para uso particular. Son los llamados Libros de Horas, a menudo obras primorosas, en las que participaron los mejores artistas de la época, y en las que la técnica y el arte de la iluminación alcanzó una altura extraordinaria.
