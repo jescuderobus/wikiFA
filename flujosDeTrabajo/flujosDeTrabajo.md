@@ -8,6 +8,8 @@
 - [Archivo Histórico](https://ahus.us.es/) - [Sevillapedia](https://sevillapedia.wikanda.es/wiki/Portada)
 
 - [Exposiciones Virtuales](https://expobus.us.es) 
+
+- [flick](https://www.flickr.com/photos/fdctsevilla/) - Wikimedia
   
 - Boletín de Fondos Digitalizados US
 
