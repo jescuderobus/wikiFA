@@ -1,4 +1,4 @@
-TEXTO: EL NACIMIENTO DE LA IMPRENTA
+# TEXTO: EL NACIMIENTO DE LA IMPRENTA
 
 En 1454 Johannes Gutenberg imprimía en la ciudad alemana de Maguncia la hoy conocida como Biblia de Gutenberg, o Biblia de las cuarenta y dos líneas, con la que se inauguraba la historia de la imprenta.
 
