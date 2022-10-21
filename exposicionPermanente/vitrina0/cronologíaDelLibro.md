@@ -7,4 +7,22 @@
 - EDAD MODERNA: desde el Descubrimiento de América hasta la Revolución Francesa (1492 - 1789)
 - EDAD CONTEMPORÁNEA: desde la Revolución Francesa hasta nuestros días
 
+### Edad Media
+Suele dividirse en dos grandes periodos.
+
+- ALTA EDAD MEDIA: sin una clara diferenciación con la antigüedad tardía. (siglos V - X)
+    - Alta nobleza y alto clero tienen el poder
+    - Feudalismo
+    - Feudos como unidad principal
+    - Cristianos en el norte y musulmanes en Al-Andalus, tambien judios.
+    - Románico
+
+- BAJA EDAD MEDIA: (siglos XI - XV)
+    - La monarquia se fortalece
+    - Surgen las ciudades y la burguesía
+    - Ciudades con actividad comercial
+    - Extensión del cristianismo
+    - Gótico
+
+
 

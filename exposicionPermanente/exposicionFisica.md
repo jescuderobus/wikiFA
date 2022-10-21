@@ -1,17 +1,19 @@
 # Exposición Física
 
 ## Vitrina 1
+- **Texto:** El Libro en los Siglos XVI-XVIII
+- **Foto:** Theatrum Orbis Terrarum
 - El teatro de la Tierra Universal
 - La Enciclopedia de Diderot y D'Alambert
-- <b>Texto</b> El Libro en los Siglos XVI-XVIII
-- <b>Foto</b> Theatrum Orbis Terrarum
+
 
 ## Vitrina 2
+- **Texto:** El Nacimiento de la Imprenta
+- **Foto:** Sin Etiqueta
 - Pequeño Libro Sin Etiqueta
 - La Nave De Los Locos
 - Los Trabajos De Hércules
-- <b>Texto</b> El Nacimiento de la Imprenta
-- <b>Foto</b> Sin Etiqueta
+
 
 ## Vitrina 3
 - Libro de horas de Alejandro Farnesio
@@ -30,7 +32,7 @@
 
 ## Vitrina 5
 - Libros del Ajedrez
-- Libros del Saber de Astrnomia
+- Libros del Saber de Astronomia
 - <b>Texto</b> Alfonso X
 - <b>Foto</b> Cantigas de Alfonso X El Sabio
 
