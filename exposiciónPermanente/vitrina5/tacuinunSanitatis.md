@@ -1,2 +1,0 @@
-# Tacuinum Sanitatis
-
