@@ -1,5 +1,7 @@
 # Theatrum orbis terrarum
 
+![Theatrum Orbis Terrarum](../_files/vitrina1/theatrumOrbisTerrarum.jpg)
+
 ```txt
 EL TEATRO DE LA TIERRA UNIVERSAL
 Theatrum orbis terrarum. Abraham Ortelius.
@@ -9,7 +11,8 @@ BUS A Arm. 15/1/10.
 
 ____
 ## Wikipedia
-
+- https://es.wikipedia.org/wiki/Theatrum_Orbis_Terrarum
+- https://en.wikipedia.org/wiki/Theatrum_Orbis_Terrarum
 ____
 ## Archive
 
