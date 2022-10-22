@@ -5,8 +5,6 @@
 - 
 
 
-
-
 ## Conferencia 
 Es una conferencia de 2012, inspiradora bien organizada y documentada. Se inscribe dentro del plan Ceibal y de un objetivo de convertir a todos los profesores de Uruguay en editores Wikipedistas.
 

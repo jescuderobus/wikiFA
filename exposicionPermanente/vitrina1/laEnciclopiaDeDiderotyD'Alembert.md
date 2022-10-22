@@ -18,6 +18,7 @@ ___
 ## Wikipedia Otros
 - https://www.elconfidencial.com/cultura/2021-12-09/libros-raros-antiguos-primera-edicion-enciclopedia_3337675/
 - https://archive.org/details/hombresbuenos0000prez/mode/2up
+- https://www.bne.es/es/Micrositios/Guias/ObrasReferencia/Enciclopedias/EvolHistorica/EncicloFrancesa/
 ___
 
 
