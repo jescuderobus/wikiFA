@@ -7,5 +7,8 @@ https://www.juntadeandalucia.es/datosabiertos/portal/aplicaciones/buscador-apps/
 
 
 ## enciclopecia.us.es
+Enciclopedia libre de la Universidad de Sevilla, lleva congelada aproximadamene cinco años.
+
+
 
 
