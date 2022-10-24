@@ -5,7 +5,7 @@ Textos de **_Eduardo Peñalver_**
 
 ![exposicion permanente](_files/expoPermanenteSketch_num.png)
 
-Recorrido cronológico: 0, 2, 1
+Recorrido cronológico: 0, 4, 2, 1
 
 ## VITRINA 0. 
 (No existe físicamente, enmarca la exposición) 

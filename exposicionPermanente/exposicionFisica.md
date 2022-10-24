@@ -10,7 +10,7 @@
 ## Vitrina 2
 - **Texto:** El Nacimiento de la Imprenta
 - **Foto:** Sin Etiqueta
-- Pequeño Libro Sin Etiqueta
+- Libro de las Maravillas (13)
 - La Nave De Los Locos
 - Los Trabajos De Hércules
 
@@ -24,15 +24,15 @@
 - <b>Foto</b> Oficio de la Virgen
 
 ## Vitrina 4
-- Biblia Pauperum
-- Codex Granatensis
-- Tacuinum Sanitatis
+- Biblia Pauperum (15)
+- Codex Granatensis (13)
+- Tacuinum Sanitatis (11)
 - <b>Texto</b> La Imagen en el Texto
 - <b>Foto</b> Codex Granatensis
 
 ## Vitrina 5
-- Libros del Ajedrez
-- Libros del Saber de Astronomia
+- Libros del Ajedrez (13)
+- Libros del Saber de Astronomia (13)
 - <b>Texto</b> Alfonso X
 - <b>Foto</b> Cantigas de Alfonso X El Sabio
 
